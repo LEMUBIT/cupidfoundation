@@ -496,7 +496,7 @@ hr {
 
 /* line 245, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 .btn {
-  background: #09cc7f;
+  background: #d8ac29;
   font-family: "Muli", sans-serif;
   text-transform: capitalize;
   padding: 27px 44px;
@@ -607,7 +607,7 @@ hr {
 
 /* line 338, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 .cal-btn > p {
-  color: #072366 !important;
+  /*color: #072366 !important;*/
   font-weight: 700;
   font-size: 16px;
   display: inline-block;
@@ -3528,7 +3528,7 @@ hr {
   font-size: 70px;
   font-weight: 800;
   margin-bottom: 14px;
-  color: #97ff00;
+  color: #d8ac29;
   line-height: 1.2;
   text-transform: capitalize;
   margin-bottom: 29px;
@@ -3587,7 +3587,7 @@ hr {
 
 /* line 77, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_h1-hero.scss */
 .slider-area .hero__caption p {
-  color: #97ff00;
+  color: #d8ac29;
   margin-bottom: 42px;
 }
 
@@ -3890,7 +3890,7 @@ hr {
   content: "";
   width: 100%;
   height: 0;
-  background: #09cc7f;
+  background: #d8ac29;
   transition: .6s;
   bottom: 0;
   left: 0;
